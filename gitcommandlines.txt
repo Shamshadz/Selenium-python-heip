@@ -1,0 +1,7 @@
+git branch
+git checkout branchname
+git branch -c new_branch_name
+git status
+git add nameoffile
+git commit -m "message"
+git push origin head
